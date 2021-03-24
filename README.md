@@ -12,6 +12,7 @@ Used these files to demonstrate how to install R and RStudio. Explain the 4 quad
 -90 minute recording of Introductory Session held on March 24th, 2020
   -First 30 mins introduction and trouble shooting installation
   (Bunny-Wunnies Freak Out- is a reference to Peanuts Cartoons (https://peanuts.fandom.com/wiki/Bunny_Wunny)
+  
   -Demo begins around 30 min 
   -~57min installing packages
   ~72min importing data
