@@ -1,0 +1,34 @@
+Eventdate,Organization,Province,District,Height,UIC,Age,pass6subjects,willing_school,orphaned,dropdue2money,two_meals,away_family,HIV_physicaldiff,unable_pay,low_income,guardian_ill,eligible,graduated_ss,school_status
+1900-01-00,Manungu DREAMS Centre,Southern,Monze,120,1,17,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,In School
+1900-01-00,Monze Urban DREAMS Centre,Southern,,112,2,15,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Out of School
+1900-01-00,Monze Urban DREAMS Centre,Southern,Monze,124,3,12,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+1900-01-00,Manungu DREAMS Centre,Southern,Monze,120,4,13,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Out of School
+1900-01-00,Mazabuka DREAMS Centre,Southern,Mazabuka,128,5,10,,No,Yes,Yes,,No,No,Yes,Yes,No,No,Yes,In School
+1900-01-00,Manungu DREAMS Centre,Southern,Monze,152,6,16,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+1900-01-00,Manungu DREAMS Centre,Southern,Monze,161,7,14,Yes,No,No,No,No,No,No,Yes,No,No,No,No,In School
+1900-01-00,Manungu DREAMS Centre,Southern,Monze,170,8,15,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,In School
+1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,127,9,18,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,In School
+1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,118,10,14,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
+1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,143,11,18,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,In School
+1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,164,12,11,Yes,No,No,No,No,No,Positive,No,Yes,No,No,No,In School
+1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,155,13,10,Yes,No,No,No,No,No,No,No,Yes,No,No,No,In School
+1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,111,14,18,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
+1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,150,15,15,Yes,No,No,,No,No,Yes,Yes,yes,Yes,Yes,No,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,160,16,15,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,No,No,Yes,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,129,17,13,No,No,No,,,No,Yes,Yes,Yes,Yes,Yes,No,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,118,18,12,Yes,No,No,No,Yes,Yes,No,Yes,no,,No,Yes,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,166,19,17,No,No,Yes,Yes,No,,No,Yes,yes,Yes,No,No,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,132,20,18,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,In School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,123,21,13,Yes,Yes,No,No,No,,No,Yes,Yes,,,Yes,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,156,22,11,No,Yes,No,Yes,,No,No,Yes,,No,No,Yes,In School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,138,23,15,Yes,No,Yes,,Yes,Yes,,,No,,,No,Out of School
+1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,152,24,14,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,In School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,100,25,16,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Out of School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,151,26,13,No,Yes,Yes,Yes,,No,,No,Yes,Yes,No,No,In School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,119,27,11,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,158,28,10,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Out of School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,102,29,10,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,125,30,18,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,,In School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,127,31,12,No,Yes,No,No,No,No,No,Yes,No,No,No,,Out of School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,160,32,11,No,No,Yes,No,Yes,No,Yes,No,Yes,,No,,Out of School
+1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,129,33,11,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
