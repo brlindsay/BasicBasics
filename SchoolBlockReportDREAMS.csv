@@ -1,34 +1,34 @@
-Eventdate,Organization,Province,District,Height,UIC,Age,pass6subjects,willing_school,orphaned,dropdue2money,two_meals,away_family,HIV_physicaldiff,unable_pay,low_income,guardian_ill,eligible,graduated_ss,school_status
-1900-01-00,Manungu DREAMS Centre,Southern,Monze,120,1,17,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,In School
-1900-01-00,Monze Urban DREAMS Centre,Southern,,112,2,15,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Out of School
-1900-01-00,Monze Urban DREAMS Centre,Southern,Monze,124,3,12,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
-1900-01-00,Manungu DREAMS Centre,Southern,Monze,120,4,13,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Out of School
-1900-01-00,Mazabuka DREAMS Centre,Southern,Mazabuka,128,5,10,,No,Yes,Yes,,No,No,Yes,Yes,No,No,Yes,In School
-1900-01-00,Manungu DREAMS Centre,Southern,Monze,152,6,16,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
-1900-01-00,Manungu DREAMS Centre,Southern,Monze,161,7,14,Yes,No,No,No,No,No,No,Yes,No,No,No,No,In School
-1900-01-00,Manungu DREAMS Centre,Southern,Monze,170,8,15,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,In School
-1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,127,9,18,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,In School
-1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,118,10,14,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
-1900-01-00,Kaleya DREAMS Centre,Southern,Mazabuka,143,11,18,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,In School
-1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,164,12,11,Yes,No,No,No,No,No,Positive,No,Yes,No,No,No,In School
-1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,155,13,10,Yes,No,No,No,No,No,No,No,Yes,No,No,No,In School
-1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,111,14,18,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
-1900-01-00,Nakambala DREAMS Centre,Southern,Mazabuka,150,15,15,Yes,No,No,,No,No,Yes,Yes,yes,Yes,Yes,No,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,160,16,15,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,No,No,Yes,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,129,17,13,No,No,No,,,No,Yes,Yes,Yes,Yes,Yes,No,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,118,18,12,Yes,No,No,No,Yes,Yes,No,Yes,no,,No,Yes,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,166,19,17,No,No,Yes,Yes,No,,No,Yes,yes,Yes,No,No,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,132,20,18,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,In School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,123,21,13,Yes,Yes,No,No,No,,No,Yes,Yes,,,Yes,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,156,22,11,No,Yes,No,Yes,,No,No,Yes,,No,No,Yes,In School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,138,23,15,Yes,No,Yes,,Yes,Yes,,,No,,,No,Out of School
-1900-01-00,Liyoyelo Urban Health Centre,Western,Mongu,152,24,14,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,In School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,100,25,16,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Out of School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,151,26,13,No,Yes,Yes,Yes,,No,,No,Yes,Yes,No,No,In School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,119,27,11,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,158,28,10,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Out of School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,102,29,10,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,125,30,18,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,,In School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,127,31,12,No,Yes,No,No,No,No,No,Yes,No,No,No,,Out of School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,160,32,11,No,No,Yes,No,Yes,No,Yes,No,Yes,,No,,Out of School
-1900-01-00,Mulambwa Urban Health Centre,Western,Mongu,129,33,11,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
+UIC,Organization,Eventdate,Province,District,Height,Age,ses,pass6subjects,willing_school,orphaned,dropdue2money,two_meals,away_family,HIV_physicaldiff,unable_pay,low_income,guardian_ill,eligible,graduated_ss,school_status
+1,Manungu DREAMS Centre,2018-12-25,Southern,Monze,120,17,Low,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,In School
+2,Monze Urban DREAMS Centre,2016-07-10,Southern,,112,15,Medium,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Out of School
+3,Monze Urban DREAMS Centre,2019-11-13,Southern,Monze,124,12,High,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+4,Manungu DREAMS Centre,2019-04-19,Southern,Monze,120,13,Low,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Out of School
+5,Mazabuka DREAMS Centre,2017-06-01,Southern,Mazabuka,128,10,Medium,,No,Yes,Yes,,No,No,Yes,Yes,No,No,Yes,In School
+6,Manungu DREAMS Centre,2020-10-27,Southern,Monze,152,16,High,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+7,Manungu DREAMS Centre,2020-05-18,Southern,Monze,161,14,High,Yes,No,No,No,No,No,No,Yes,No,No,No,No,In School
+8,Manungu DREAMS Centre,2020-08-16,Southern,Monze,170,15,High,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,In School
+9,Kaleya DREAMS Centre,2020-03-01,Southern,Mazabuka,127,18,High,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,In School
+10,Kaleya DREAMS Centre,2020-05-04,Southern,Mazabuka,118,14,High,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
+11,Kaleya DREAMS Centre,2017-05-03,Southern,Mazabuka,143,18,Low,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,In School
+12,Nakambala DREAMS Centre,2020-03-13,Southern,Mazabuka,164,11,Low,Yes,No,No,No,No,No,Positive,No,Yes,No,No,No,In School
+13,Nakambala DREAMS Centre,2016-05-02,Southern,Mazabuka,155,10,Low,Yes,No,No,No,No,No,No,No,Yes,No,No,No,In School
+14,Nakambala DREAMS Centre,2016-11-22,Southern,Mazabuka,111,18,Low,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
+15,Nakambala DREAMS Centre,2020-12-20,Southern,Mazabuka,150,15,Low,Yes,No,No,,No,No,Yes,Yes,yes,Yes,Yes,No,Out of School
+16,Liyoyelo Urban Health Centre,2017-03-21,Western,Mongu,160,15,Medium,No,Yes,Yes,Yes,Yes,Yes,Yes,No,,No,No,Yes,Out of School
+17,Liyoyelo Urban Health Centre,2017-11-30,Western,Mongu,129,13,Medium,No,No,No,,,No,Yes,Yes,Yes,Yes,Yes,No,Out of School
+18,Liyoyelo Urban Health Centre,2020-12-20,Western,Mongu,118,12,Medium,Yes,No,No,No,Yes,Yes,No,Yes,no,,No,Yes,Out of School
+19,Liyoyelo Urban Health Centre,2016-03-16,Western,Mongu,166,17,Low,No,No,Yes,Yes,No,,No,Yes,yes,Yes,No,No,Out of School
+20,Liyoyelo Urban Health Centre,2020-03-14,Western,Mongu,132,18,Medium,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,In School
+21,Liyoyelo Urban Health Centre,2020-12-10,Western,Mongu,123,13,Low,Yes,Yes,No,No,No,,No,Yes,Yes,,,Yes,Out of School
+22,Liyoyelo Urban Health Centre,2017-05-25,Western,Mongu,156,11,Medium,No,Yes,No,Yes,,No,No,Yes,,No,No,Yes,In School
+23,Liyoyelo Urban Health Centre,2020-06-08,Western,Mongu,138,15,Medium,Yes,No,Yes,,Yes,Yes,,,No,,,No,Out of School
+24,Liyoyelo Urban Health Centre,2020-06-23,Western,Mongu,152,14,Medium,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,In School
+25,Mulambwa Urban Health Centre,2020-04-29,Western,Mongu,100,16,Medium,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Out of School
+26,Mulambwa Urban Health Centre,2016-07-11,Western,Mongu,151,13,Low,No,Yes,Yes,Yes,,No,,No,Yes,Yes,No,No,In School
+27,Mulambwa Urban Health Centre,2020-08-10,Western,Mongu,119,11,Low,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Out of School
+28,Mulambwa Urban Health Centre,2017-12-05,Western,Mongu,158,10,Low,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Out of School
+29,Mulambwa Urban Health Centre,2020-12-25,Western,Mongu,102,10,Medium,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,In School
+30,Mulambwa Urban Health Centre,2019-10-25,Western,Mongu,125,18,Low,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,,In School
+31,Mulambwa Urban Health Centre,2017-04-10,Western,Mongu,127,12,High,No,Yes,No,No,No,No,No,Yes,No,No,No,,Out of School
+32,Mulambwa Urban Health Centre,2017-01-02,Western,Mongu,160,11,High,No,No,Yes,No,Yes,No,Yes,No,Yes,,No,,Out of School
+33,Mulambwa Urban Health Centre,2017-05-08,Western,Mongu,129,11,High,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,In School
